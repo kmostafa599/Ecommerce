@@ -35,8 +35,7 @@ const trendingProducts = [
     imageSrc:
       'https://tailwindui.com/img/ecommerce-images/home-page-04-trending-product-02.jpg',
     imageAlt: 'Hand stitched, orange leather long wallet.',
-  },
-  // More products...
+  }
 ]
 const perks = [
   {
